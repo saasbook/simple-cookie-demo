@@ -41,7 +41,7 @@ DEPENDENCIES
   sinatra-contrib
 
 RUBY VERSION
-   ruby 2.4.5p335
+   ruby 2.7.8p225
 
 BUNDLED WITH
    1.17.3
